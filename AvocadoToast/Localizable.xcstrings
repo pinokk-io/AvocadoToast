@@ -1,0 +1,370 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "Ajvar" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "アイバル"
+          }
+        }
+      }
+    },
+    "Almond Butter" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "アーモンド・バター"
+          }
+        }
+      }
+    },
+    "Amlou" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "アムル"
+          }
+        }
+      }
+    },
+    "Bread" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ブレッド"
+          }
+        }
+      }
+    },
+    "Canned Cheese" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "缶詰チーズ"
+          }
+        }
+      }
+    },
+    "Chutney" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "チャツネ"
+          }
+        }
+      }
+    },
+    "Egg Location" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "卵の位置"
+          }
+        }
+      }
+    },
+    "Féroce" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "フェロス"
+          }
+        }
+      }
+    },
+    "History" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "履歴"
+          }
+        }
+      }
+    },
+    "Honey" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ハチミツ"
+          }
+        }
+      }
+    },
+    "Include Egg" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "目玉焼き"
+          }
+        }
+      }
+    },
+    "Include Red Pepper" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "レッドペッパー"
+          }
+        }
+      }
+    },
+    "Include Salt" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "塩"
+          }
+        }
+      }
+    },
+    "Kartoffelkäse" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "カルトフェルケーゼ"
+          }
+        }
+      }
+    },
+    "Kyopolou" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "キョポルー"
+          }
+        }
+      }
+    },
+    "Mashed" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "マッシュド"
+          }
+        }
+      }
+    },
+    "Mayonnaise" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "マヨネーズ"
+          }
+        }
+      }
+    },
+    "Multi-Grain" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "マルチグレイン"
+          }
+        }
+      }
+    },
+    "New Order" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "注文"
+          }
+        }
+      }
+    },
+    "None" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "なし"
+          }
+        }
+      }
+    },
+    "Order" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "注文する"
+          }
+        }
+      }
+    },
+    "Peanut Butter" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ピーナッツ・バター"
+          }
+        }
+      }
+    },
+    "Pindjur" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ピンジュール"
+          }
+        }
+      }
+    },
+    "Quantity: %lld" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld 個"
+          }
+        }
+      }
+    },
+    "Rye" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ライ"
+          }
+        }
+      }
+    },
+    "Sliced" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "スライス"
+          }
+        }
+      }
+    },
+    "Sourdough" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "サワードウ"
+          }
+        }
+      }
+    },
+    "Spread" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "スプレッド"
+          }
+        }
+      }
+    },
+    "Style" : {
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "スタイル"
+          }
+        }
+      }
+    },
+    "Tapenade" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "タプナード"
+          }
+        }
+      }
+    },
+    "Tartar Sauce" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "タルタルソース"
+          }
+        }
+      }
+    },
+    "Vegemite" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ベジマイト"
+          }
+        }
+      }
+    },
+    "Wheat" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ウィート"
+          }
+        }
+      }
+    },
+    "White" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ホワイト"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}
